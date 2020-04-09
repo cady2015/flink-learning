@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.llj.cloud;
+package cloud;
 
 import org.apache.flink.api.common.functions.FlatMapFunction;
 import org.apache.flink.api.common.functions.ReduceFunction;
